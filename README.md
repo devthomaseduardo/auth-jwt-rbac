@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.thomaseduardo.com.br"><img src="https://img.shields.io/badge/Portfolio-thomaseduardo.com.br-E8620A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/devthomaseduardo/auth-jwt-rbac"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=devthomaseduardo&repo=auth-jwt-rbac&color=orange" alt="Repository Views" />
 </p>
 
 ---
@@ -101,3 +102,11 @@ Uso pessoal e profissional. Todos os direitos reservados © Thomas Eduardo.
 **Construído com processo, segurança e atenção aos detalhes.**
 
 > Veja o portfólio completo em [www.thomaseduardo.com.br](https://www.thomaseduardo.com.br)
+
+---
+
+> **📊 Visualizações deste repositório**  
+> O badge acima mostra o número de visualizações únicas deste README (atualizado automaticamente via [komarev.com](https://komarev.com/ghpvc)).  
+> Obrigado pela visita! Se o projeto te inspirou, considere deixar uma estrela ⭐️.
+
+**Padrão aplicado em todos os repositórios de Thomas Eduardo.**
